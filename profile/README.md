@@ -21,6 +21,6 @@ Projeto inspirado nos principios de misericódia da filantrópia, filósofia e t
 [Primeira Santa Casa do Brasil](http://www.arquidioceseolindarecife.org/santa-casa-promove-natal-luz/)
 
 #### Observações Importantes
-Apesar da fonte de inspiração, esse projeto é uma iniciativa livre de um indivíduo que não possui interesses financeiros com este projeto.
+Apesar da fonte de inspiração, esse projeto é de livre iniciativa de um indivíduo que não possui interesses financeiros com este projeto e não mantém nenhum vículo formal com qualquer instituição privada, pública ou filantrópica de saúde ou de qualquer outro setor para criar ou compartilhar qualquer código neste repositório.
 
 A imagem utilizada é o brasão da primeira Santa Casa, a Santa Casa de Olinda.
