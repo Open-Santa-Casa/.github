@@ -1,4 +1,5 @@
-# Open-Santa-Casa 🏨🏥⛪
+# Open Santa Casa 🏨🏥⛪
+#### Descrição
 Projeto inspirado nos principios de misericódia da filantrópia, filósofia e tradição das Santas Casas no Brasil 🇧🇷, esse repositório tem a finalidade de retribuir a sóciedade compartilhando automações que podem ser utilizadas para otimizar a produtividade em atividades realizadas nos trabalhos administrativos, financeiros, contábeis e de planejamento estratégico das Santas Casas do Brasil. 
 
 🤖
