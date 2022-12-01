@@ -10,7 +10,7 @@ Projeto inspirado nos principios de misericódia da filantrópia, filósofia e t
 
 ## 👁️‍🗨️ Visão
 
-- Construir automações integradas
+- Construir automações poderosas e integradas
 - Construir uma inteligência artificial útil e fácil de implementar
 - Contribuir para um possível ecossistema de tecnológia open source de saúde na Bahia
 - Contribuir sempre para uma sociedade mais rica e saúdavel
