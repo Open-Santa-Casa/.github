@@ -18,7 +18,7 @@ Projeto inspirado nos principios de misericódia da filantrópia, filósofia e t
 # História da Santas Casas
 📚 [História da Santa Casa de Olinda](https://www.santacasarecife.org.br/institucional/nossa-historia/)
 
-[Primeira Santa Casa do Brasil](http://www.arquidioceseolindarecife.org/santa-casa-promove-natal-luz/)
+🥇 [Primeira Santa Casa do Brasil](http://www.arquidioceseolindarecife.org/santa-casa-promove-natal-luz/)
 
 #### Observações Importantes
 Apesar da fonte de inspiração, esse projeto é de livre iniciativa de um indivíduo que não possui interesses financeiros com este projeto e não mantém nenhum vículo formal com qualquer instituição privada, pública ou filantrópica de saúde ou de qualquer outro setor para criar ou compartilhar qualquer código neste repositório.
