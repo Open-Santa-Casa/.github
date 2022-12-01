@@ -9,5 +9,6 @@ Projeto inspirado nos principios de misericódia da filantrópia, filósofia e t
 
 
 # História da Santas Casas
-[Santa Casa de Recife]!(https://www.santacasarecife.org.br/institucional/nossa-historia/)
-[Primeira Santa Casa do Brasil]!(http://www.arquidioceseolindarecife.org/santa-casa-promove-natal-luz/)
+[Santa Casa de Recife](https://www.santacasarecife.org.br/institucional/nossa-historia/)
+
+[Primeira Santa Casa do Brasil](http://www.arquidioceseolindarecife.org/santa-casa-promove-natal-luz/)
